@@ -1,0 +1,13 @@
+.active {
+  background-color: blue;
+  color: white;
+}
+
+.disabled {
+  color: #666;
+  opacity: .5;
+}
+
+.tab {
+  background-color: #ccc;
+}
